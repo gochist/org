@@ -299,13 +299,11 @@ teams:
     - alexbrand # L10n: Spanish
     - Bradamant3 # L10n: English
     - bradtopol # L10n: English
-    - ClaudiaJKang # L10n: Korean
     - cstoku # L10n: Japanese
     - daminisatya # Release lead 1.17
     - dianaabv # L10n: Russian
     - femrtnz # L10n: Portuguese
     - girikuncoro # L10n: Indonesian
-    - gochist # L10n: Korean
     - hanjiayao # L10n: Chinese
     - huynguyennovem # L10n: Vietnamese
     - ianychoi # L10n: Korean
@@ -331,6 +329,7 @@ teams:
     - truongnh1992 # L10n: Vietnamese
     - vineethreddy02 # Docs 1.18 lead
     - xichengliudui # L10n: Chinese
+    - ysyukr # L10n: Korean
     - zacharysarah # L10n: English
     - zhangxiaoyu-zidif # L10n: Chinese
     privacy: closed
